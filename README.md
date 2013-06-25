@@ -1,4 +1,4 @@
-Example project for accessing the Yast User API
+Yast User API Example Project
 =================
 
 This project uses the Java API library: https://github.com/YastTimeTracker/yast-java-lib-user
